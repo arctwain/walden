@@ -9,4 +9,11 @@
 	background-image: url("IMG_5277.GIF");
   	background-color: #cccccc;
 		
+	.center {
+ 	 	display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+  		width: 50%;
+}
+		
 }
